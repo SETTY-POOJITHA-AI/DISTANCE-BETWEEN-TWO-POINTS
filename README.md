@@ -26,7 +26,7 @@ print(format(d,".2f"))
 ~~~
   
 ### OUTPUT:
-![github logo](distance between two points.png)
+![github logo](distbw.png)
 
 ### RESULT:
 Program finished successfully.
